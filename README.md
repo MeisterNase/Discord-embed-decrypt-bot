@@ -18,8 +18,7 @@ A simple Discord bot template to decrypt all embed messages in a discord channel
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd discord-bot-template
+git clone (https://github.com/MeisterNase/Discord-embed-decrypt-bot.git)
 ```
 
 ### 2. Install dependencies
@@ -155,5 +154,6 @@ The export filter in `main.js` currently exports all messages with embeds. You c
 The `DiscordRequest` function in `utils.js` automatically handles rate limits with retry logic.
 
 ## 📄 License
+
 
 
